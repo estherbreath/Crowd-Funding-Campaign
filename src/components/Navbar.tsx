@@ -3,7 +3,6 @@ import { client } from "@/app/client";
 import Link from "next/link";
 import { ConnectButton, darkTheme, useActiveAccount } from "thirdweb/react";
 import { createWallet } from "thirdweb/wallets";
-import "./Navbar.css"
 
 const wallets = [
   createWallet("io.metamask"),
