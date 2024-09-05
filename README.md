@@ -81,10 +81,14 @@ AREX Crowdfunding is licensed under the MIT License. See the LICENSE.md file for
 
 Thank you for considering AREX Crowdfunding for your decentralized fundraising needs. Together, we can create a more transparent and secure crowdfunding ecosystem.
 
-#### Vercel link
+## Contract Adddress
+
+0x6e300CBD0f564F785b6a5aF98C9e13Fda579bdf5
+
+## Vercel link
 
 https://campain-frontend-emhz.vercel.app/
 
-# Presentation Slides
+## Presentation Slides
 
 https://www.canva.com/design/DAGPzN3uQ38/Oi-V-P3MneEQ4hB4MQd34g/edit?utm_content=DAGPzN3uQ38&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
